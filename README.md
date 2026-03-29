@@ -61,21 +61,6 @@ This makes it:
 
 ---
 
-## 📂 Project Structure
-
-```
-Personal_AI_Assistant/
-│
-├── main.py
-├── assets/
-│   ├── preview.png
-│
-├── User_Commands_&_Bot_Replies.pdf
-├── README.md
-```
-
----
-
 ## 📘 Commands Documentation
 
 📄 A detailed list of all supported commands and their responses is available in:
