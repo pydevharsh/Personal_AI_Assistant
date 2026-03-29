@@ -57,7 +57,7 @@ This makes it:
 
 ## 📸 GUI Preview
 
-![App Preview](assets/preview.png)
+![App Preview](preview.png)
 
 ---
 
