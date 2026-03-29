@@ -1,6 +1,6 @@
 # 🤖 Personal AI Assistant (GUI Based)
 
-A beginner-friendly yet powerful **GUI-based Personal AI Assistant** built using **Python & Tkinter**.
+A beginner-friendly yet powerful **GUI-based Personal AI Assistant** built using **python, tkinter, gui, ai-assistant, beginner-project**.
 
 🚀 This project is designed to demonstrate how core programming concepts like **functions, dictionaries, and GUI development** can be combined to build an interactive desktop assistant.
 
@@ -57,7 +57,9 @@ This makes it:
 
 ## 📸 GUI Preview
 
-![App Preview](preview.png)
+<p align="center">
+  <img src="preview.png" width="500" height="500">
+</p>
 
 ---
 
@@ -80,7 +82,7 @@ This document includes:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Personal_AI_Assistant.git
+git clone https://github.com/pydevharsh/Personal_AI_Assistant.git
 cd Personal_AI_Assistant
 ```
 
